@@ -1,0 +1,14 @@
+-----Relatório extraído 31/06/2020------
+SETOR DE VENDAS
+----------------------------------------
+---------------------------------------
+Data da Venda Estado Venda
+01/01/2010FortalezaR$ 315,00
+02/01/2010FortalezaR$ 64,00
+03/01/2010MaracanaúR$ 2.943,00
+04/01/2010MaracanaúR$ 3.720,00
+05/01/2010CaucaiaR$ 280,00
+06/01/2010CaucaiaR$ 380,00
+07/01/2010CaucaiaR$ 120,00
+08/01/2010CaucaiaR$ 315,00
+09/01/2010CaucaiaR$ 80,00

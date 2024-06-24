@@ -1,0 +1,9 @@
+Data da Venda	Cidade	Faturamento
+01/01/2011	Fortaleza	1500
+02/01/2011	Maracanaú	3000
+03/01/2011	Maracanaú	3500
+04/01/2011	Caucaia	250
+01/01/2012	Caucaia	300
+02/01/2012	Fortaleza	800
+03/01/2012	Maracanaú	600
+04/01/2012	Caucaia	700
